@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### :hammer_and_wrench: Tools & Technologies:
-![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby,django,git,github,linux)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,django,git,linux)
 
 ### :brain: Problem Solving:
 [![Leet Code Status](https://leetcard.jacoblin.cool/acskii?theme=catppuccinMocha&font=Poppins)](https://leetcode.com/u/acskii/)
