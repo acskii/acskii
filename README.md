@@ -1,6 +1,7 @@
 ## Hi I'm Andrew 👋
-### This is me.
-### My Projects are pinned below ⬇️
+
+\[insert bio here\]
+
 <!--
 **acskii/acskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +18,13 @@ Here are some ideas to get you started:
 -->
 
 ### :hammer_and_wrench: Tools & Technologies:
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,django,git,linux)
+![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,git,python,django)
 
 ### :brain: Problem Solving:
 [![Leet Code Status](https://leetcard.jacoblin.cool/acskii?theme=catppuccinMocha&font=Poppins)](https://leetcode.com/u/acskii/)
 
-### :incoming_envelope: Contact Me:
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png)](https://www.linkedin.com/in/andrew-sameh-adel)
-[![Gmail](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png)](mailto:andrew.sameh.adel@gmail.com)
+### :telephone: Contact Me:
+[![LinkedIn](https://img.icons8.com/?size=96&id=13930&format=png)](https://www.linkedin.com/in/andrew-sameh-adel)
+[![Gmail](https://img.icons8.com/?size=96&id=qyRpAggnV0zH&format=png)](mailto:andrew.sameh.adel@gmail.com)
+
+### ⬇️ my projects are pinned below ⬇️
