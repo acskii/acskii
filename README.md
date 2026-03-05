@@ -31,6 +31,11 @@ Click [📄](https://drive.google.com/file/d/1vhfxyulccX0rb-HGIi6sv12OSNM5PcWt/v
 [![LinkedIn](./LinkedIN_white.svg)](https://www.linkedin.com/in/andrew-sameh-adel)
 [![Gmail](./Gmail_white.svg)](mailto:andrew.sameh.adel@gmail.com)
 
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=acskii&color=blue" style="padding-right:20px;" />
+</p>
 <!--### :brain: Problem Solving:
 [![Leet Code Status](https://leetcard.jacoblin.cool/acskii?theme=catppuccinMocha&font=Poppins)](https://leetcode.com/u/acskii/)
 -->
