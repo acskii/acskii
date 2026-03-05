@@ -1,10 +1,17 @@
-## Hi I'm Andrew 👋
+### Hi 👋, I'm Andrew.
 
 ---
 ### \[Bio\]
 Love the sea 🌊, but not the chaos 💥.
 
 Act like a cat 🐈, but not lazy. (I am not lying.. 😙)
+
+Love to code 💻, but hoping to work 💸.
+
+---
+### \[Resume\]
+
+Click [📄](https://drive.google.com/file/d/1vhfxyulccX0rb-HGIi6sv12OSNM5PcWt/view?usp=sharing) to view my resume 
 
 ---
 ### \[Projects\]
@@ -19,21 +26,11 @@ Act like a cat 🐈, but not lazy. (I am not lying.. 😙)
 | HTTP request handling | [Link](https://github.com/acskii/codecrafter-http-server) | HTTP/1.1 Server | ![Skills](https://skillicons.dev/icons?i=go) | ☑️ | [Codecrafters](https://app.codecrafters.io/courses/http-server/overview) challenge |
 
 ---
-
-### \[Resume\]
-
-Click [📄](https://drive.google.com/file/d/1vhfxyulccX0rb-HGIi6sv12OSNM5PcWt/view?usp=sharing) to view my resume 
-
----
-
 ### \[Contact Me\]
 
 [![LinkedIn](./LinkedIN_white.svg)](https://www.linkedin.com/in/andrew-sameh-adel)
 [![Gmail](./Gmail_white.svg)](mailto:andrew.sameh.adel@gmail.com)
 
----
-
-### :brain: Problem Solving:
+<!--### :brain: Problem Solving:
 [![Leet Code Status](https://leetcard.jacoblin.cool/acskii?theme=catppuccinMocha&font=Poppins)](https://leetcode.com/u/acskii/)
-
-### ⬇️ my projects are pinned below ⬇️
+-->
