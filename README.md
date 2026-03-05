@@ -1,7 +1,24 @@
 ## Hi I'm Andrew 👋
 
-\[insert bio here\]
+---
+### \[Bio\]
+Love the sea 🌊, but not the chaos 💥.
 
+Act like a cat 🐈, but not lazy. (I am not lying.. 😙)
+
+---
+<!--
+### \[Projects\]
+
+
+---
+
+### \[Contact Me\]
+
+
+
+---
+-->
 <!--
 **acskii/acskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
