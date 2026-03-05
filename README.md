@@ -9,7 +9,9 @@ Act like a cat 🐈, but not lazy. (I am not lying.. 😙)
 ---
 ### \[Projects\]
 
-
+| Concept | Repository | Name | Skills | Notes |
+|---|---|---|---|---|
+| Offline PDF organisation and rendering | [Link](https://github.com/acskii/aclibris) | Aclibris |  | Can be downloaded, check [Releases](https://github.com/acskii/aclibris/releases) |
 
 ---
 
