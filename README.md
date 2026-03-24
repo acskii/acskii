@@ -19,9 +19,9 @@ Click [📄](https://drive.google.com/file/d/1vhfxyulccX0rb-HGIi6sv12OSNM5PcWt/v
 | Concept | Repository | Name | Skills | Complete | Notes |  
 |---|---|---|---|---|---|
 | Offline PDF organisation and rendering | [Link](https://github.com/acskii/aclibris) | Aclibris | ![Skills](https://skillicons.dev/icons?i=typescript,electron,react,sqlite) | ☑️ | Can be downloaded, check [Releases](https://github.com/acskii/aclibris/releases) |
+| AI Chain Prompting with NoSQL | [Link](https://github.com/acskii/chain) | Chain Architect | ![Skills](https://skillicons.dev/icons?i=javascript,mongo,react,vite,vercel) | | Live Website [here](https://chainarchitect.vercel.app/) |
 | Portfolio | [Link](https://github.com/acskii/portfolio) | Portfolio | ![Skills](https://skillicons.dev/icons?i=nextjs,vercel,react,typescript) | ☑️ | Live Website [here](https://portfolio-livid-mu-57.vercel.app/portfolio) |
 | Programming Course Collaboration Project | [Link](https://github.com/acskii/skillforge) | Skillforge Platform | ![Skills](https://skillicons.dev/icons?i=java) | ☑️ |  |
-| AI & NoSQL | [Link](https://github.com/acskii/chain) | Prompt Chain | ![Skills](https://skillicons.dev/icons?i=javascript,mongo,react) | | UNDER DEVELOPMENT |
 | Web scrapped story collection | [Link](https://github.com/acskii/comfy-reader) | Comfy reader | ![Skills](https://skillicons.dev/icons?i=python,django,redis) |  | Host locally to run |
 | HTTP request handling | [Link](https://github.com/acskii/codecrafter-http-server) | HTTP/1.1 Server | ![Skills](https://skillicons.dev/icons?i=go) | ☑️ | [Codecrafters](https://app.codecrafters.io/courses/http-server/overview) challenge |
 
